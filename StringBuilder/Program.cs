@@ -7,7 +7,7 @@ internal class Program
     private static void Main(string[] args)
     {
 
-        // create object
+        
         StringBuilder sb = new StringBuilder();
         
         Console.WriteLine(sb.ToString()); // null
